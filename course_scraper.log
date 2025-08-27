@@ -1,0 +1,971 @@
+2025-08-27 21:51:50,940 - INFO - ====== WebDriver manager ======
+2025-08-27 21:51:55,695 - INFO - ====== WebDriver manager ======
+2025-08-27 21:51:56,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 21:51:57,166 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 21:51:57,688 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:28,909 - INFO - ====== WebDriver manager ======
+2025-08-27 22:02:29,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:30,406 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:30,934 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:30,935 - ERROR - 處理系所 英語教學中心 (01) 時發生嚴重錯誤: WebDriver.__init__() got an unexpected keyword argument 'service'
+2025-08-27 22:02:30,935 - INFO - 完成系所 英語教學中心 (01) 的處理
+2025-08-27 22:02:30,935 - INFO - ====== WebDriver manager ======
+2025-08-27 22:02:31,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:32,585 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:33,113 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:33,113 - ERROR - 處理系所 體育室 (02) 時發生嚴重錯誤: WebDriver.__init__() got an unexpected keyword argument 'service'
+2025-08-27 22:02:33,113 - INFO - 完成系所 體育室 (02) 的處理
+2025-08-27 22:02:33,113 - INFO - ====== WebDriver manager ======
+2025-08-27 22:02:34,004 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:34,565 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:35,188 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:35,188 - ERROR - 處理系所 數位媒體設計學系 (09) 時發生嚴重錯誤: WebDriver.__init__() got an unexpected keyword argument 'service'
+2025-08-27 22:02:35,189 - INFO - 完成系所 數位媒體設計學系 (09) 的處理
+2025-08-27 22:02:35,189 - INFO - ====== WebDriver manager ======
+2025-08-27 22:02:36,084 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:36,814 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:37,500 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:37,500 - ERROR - 處理系所 企業管理學系 (11) 時發生嚴重錯誤: WebDriver.__init__() got an unexpected keyword argument 'service'
+2025-08-27 22:02:37,500 - INFO - 完成系所 企業管理學系 (11) 的處理
+2025-08-27 22:02:37,500 - INFO - ====== WebDriver manager ======
+2025-08-27 22:02:38,394 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:38,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:02:39,423 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:02:39,423 - ERROR - 處理系所 資訊管理學系 (13) 時發生嚴重錯誤: WebDriver.__init__() got an unexpected keyword argument 'service'
+2025-08-27 22:02:39,424 - INFO - 完成系所 資訊管理學系 (13) 的處理
+2025-08-27 22:02:39,424 - INFO - ====== WebDriver manager ======
+2025-08-27 22:03:32,945 - INFO - ====== WebDriver manager ======
+2025-08-27 22:03:33,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:34,520 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:35,016 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:03:35,016 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:03:35,016 - INFO - ====== WebDriver manager ======
+2025-08-27 22:03:35,903 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:36,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:37,139 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:03:38,512 - INFO - 正在查詢 [系所:01, 年級:1]
+2025-08-27 22:03:38,906 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:03:40,028 - INFO - 正在查詢 [系所:01, 年級:2]
+2025-08-27 22:03:40,375 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:03:41,209 - INFO - 正在查詢 [系所:01, 年級:3]
+2025-08-27 22:03:41,717 - INFO - 成功解析到 64 筆課程資料
+2025-08-27 22:03:42,508 - INFO - 正在查詢 [系所:01, 年級:4]
+2025-08-27 22:03:42,994 - INFO - 成功解析到 62 筆課程資料
+2025-08-27 22:03:46,140 - INFO - 完成系所 英語教學中心 (01) 的處理
+2025-08-27 22:03:46,140 - INFO - ====== WebDriver manager ======
+2025-08-27 22:03:47,020 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:47,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:48,296 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:03:48,296 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:03:48,296 - INFO - ====== WebDriver manager ======
+2025-08-27 22:03:49,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:49,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:03:50,340 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:03:51,718 - INFO - 正在查詢 [系所:02, 年級:1]
+2025-08-27 22:03:52,157 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:03:52,963 - INFO - 正在查詢 [系所:02, 年級:2]
+2025-08-27 22:03:53,691 - INFO - 成功解析到 28 筆課程資料
+2025-08-27 22:03:54,427 - INFO - 正在查詢 [系所:02, 年級:3]
+2025-08-27 22:04:14,973 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:04:15,637 - INFO - 正在查詢 [系所:02, 年級:4]
+2025-08-27 22:04:36,026 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:04:39,681 - INFO - 完成系所 體育室 (02) 的處理
+2025-08-27 22:04:39,681 - INFO - ====== WebDriver manager ======
+2025-08-27 22:04:40,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:41,093 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:41,605 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:04:41,605 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:04:41,605 - INFO - ====== WebDriver manager ======
+2025-08-27 22:04:42,488 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:43,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:43,660 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:04:44,972 - INFO - 正在查詢 [系所:09, 年級:1]
+2025-08-27 22:04:45,472 - INFO - 成功解析到 37 筆課程資料
+2025-08-27 22:04:46,072 - INFO - 正在查詢 [系所:09, 年級:2]
+2025-08-27 22:04:46,489 - INFO - 成功解析到 22 筆課程資料
+2025-08-27 22:04:47,446 - INFO - 正在查詢 [系所:09, 年級:3]
+2025-08-27 22:04:47,801 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:04:48,609 - INFO - 正在查詢 [系所:09, 年級:4]
+2025-08-27 22:04:48,733 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:04:51,539 - INFO - 完成系所 數位媒體設計學系 (09) 的處理
+2025-08-27 22:04:51,539 - INFO - ====== WebDriver manager ======
+2025-08-27 22:04:52,416 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:52,973 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:53,597 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:04:53,598 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:04:53,598 - INFO - ====== WebDriver manager ======
+2025-08-27 22:04:54,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:55,091 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:04:55,636 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:04:56,928 - INFO - 正在查詢 [系所:11, 年級:1]
+2025-08-27 22:04:58,774 - INFO - 成功解析到 46 筆課程資料
+2025-08-27 22:04:59,656 - INFO - 正在查詢 [系所:11, 年級:2]
+2025-08-27 22:05:00,376 - INFO - 成功解析到 24 筆課程資料
+2025-08-27 22:05:01,610 - INFO - 正在查詢 [系所:11, 年級:3]
+2025-08-27 22:05:02,096 - INFO - 成功解析到 24 筆課程資料
+2025-08-27 22:05:02,710 - INFO - 正在查詢 [系所:11, 年級:4]
+2025-08-27 22:05:03,142 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:05:06,540 - INFO - 完成系所 企業管理學系 (11) 的處理
+2025-08-27 22:05:06,541 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:07,416 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:07,996 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:08,608 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:08,608 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:05:08,608 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:09,488 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:10,012 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:10,660 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:12,002 - INFO - 正在查詢 [系所:13, 年級:1]
+2025-08-27 22:05:12,633 - INFO - 成功解析到 25 筆課程資料
+2025-08-27 22:05:13,735 - INFO - 正在查詢 [系所:13, 年級:2]
+2025-08-27 22:05:14,200 - INFO - 成功解析到 18 筆課程資料
+2025-08-27 22:05:15,481 - INFO - 正在查詢 [系所:13, 年級:3]
+2025-08-27 22:05:15,879 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:05:16,584 - INFO - 正在查詢 [系所:13, 年級:4]
+2025-08-27 22:05:16,984 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:05:20,621 - INFO - 完成系所 資訊管理學系 (13) 的處理
+2025-08-27 22:05:20,621 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:21,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:22,165 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:22,706 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:22,707 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:05:22,707 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:23,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:24,133 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:24,635 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:25,971 - INFO - 正在查詢 [系所:14, 年級:1]
+2025-08-27 22:05:26,491 - INFO - 成功解析到 16 筆課程資料
+2025-08-27 22:05:27,959 - INFO - 正在查詢 [系所:14, 年級:2]
+2025-08-27 22:05:28,414 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:05:29,627 - INFO - 正在查詢 [系所:14, 年級:3]
+2025-08-27 22:05:30,038 - INFO - 成功解析到 5 筆課程資料
+2025-08-27 22:05:31,174 - INFO - 正在查詢 [系所:14, 年級:4]
+2025-08-27 22:05:31,542 - INFO - 成功解析到 5 筆課程資料
+2025-08-27 22:05:32,992 - ERROR - 處理系所 觀光事業學系 (14) 時發生嚴重錯誤: [Errno 13] Permission denied: '全校課表_Selenium.xlsx'
+2025-08-27 22:05:35,078 - INFO - 完成系所 觀光事業學系 (14) 的處理
+2025-08-27 22:05:35,078 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:35,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:36,482 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:37,104 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:37,105 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:05:37,105 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:38,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:38,564 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:39,184 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:40,501 - INFO - 正在查詢 [系所:15, 年級:1]
+2025-08-27 22:05:40,923 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:05:41,700 - INFO - 正在查詢 [系所:15, 年級:2]
+2025-08-27 22:05:42,064 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:05:42,705 - INFO - 正在查詢 [系所:15, 年級:3]
+2025-08-27 22:05:43,091 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:05:43,773 - INFO - 正在查詢 [系所:15, 年級:4]
+2025-08-27 22:05:44,132 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:05:47,656 - INFO - 完成系所 影音新聞暨社群傳播學系 (15) 的處理
+2025-08-27 22:05:47,656 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:48,536 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:49,140 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:49,777 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:49,778 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:05:49,778 - INFO - ====== WebDriver manager ======
+2025-08-27 22:05:50,685 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:51,188 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:05:51,879 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:05:53,240 - INFO - 正在查詢 [系所:17, 年級:1]
+2025-08-27 22:05:53,627 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:05:54,442 - INFO - 正在查詢 [系所:17, 年級:2]
+2025-08-27 22:05:54,869 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:05:55,389 - INFO - 正在查詢 [系所:17, 年級:3]
+2025-08-27 22:05:55,768 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:05:56,397 - INFO - 正在查詢 [系所:17, 年級:4]
+2025-08-27 22:05:56,757 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:06:00,172 - INFO - 完成系所 應用統計與資料科學學系 (17) 的處理
+2025-08-27 22:06:00,172 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:01,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:01,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:02,089 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:02,089 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:06:02,089 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:02,975 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:03,521 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:04,033 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:05,356 - INFO - 正在查詢 [系所:18, 年級:1]
+2025-08-27 22:06:05,898 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:06:07,019 - INFO - 正在查詢 [系所:18, 年級:2]
+2025-08-27 22:06:07,418 - INFO - 成功解析到 13 筆課程資料
+2025-08-27 22:06:08,868 - INFO - 正在查詢 [系所:18, 年級:3]
+2025-08-27 22:06:09,271 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:06:10,038 - INFO - 正在查詢 [系所:18, 年級:4]
+2025-08-27 22:06:10,437 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:06:13,795 - INFO - 完成系所 休閒遊憩管理學系 (18) 的處理
+2025-08-27 22:06:13,795 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:14,689 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:15,253 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:15,808 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:15,808 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:06:15,809 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:16,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:17,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:18,042 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:19,492 - INFO - 正在查詢 [系所:19, 年級:1]
+2025-08-27 22:06:20,026 - INFO - 成功解析到 27 筆課程資料
+2025-08-27 22:06:20,857 - INFO - 正在查詢 [系所:19, 年級:2]
+2025-08-27 22:06:21,283 - INFO - 成功解析到 27 筆課程資料
+2025-08-27 22:06:21,860 - INFO - 正在查詢 [系所:19, 年級:3]
+2025-08-27 22:06:22,441 - INFO - 成功解析到 10 筆課程資料
+2025-08-27 22:06:23,335 - INFO - 正在查詢 [系所:19, 年級:4]
+2025-08-27 22:06:23,728 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:06:27,316 - INFO - 完成系所 餐旅管理學系 (19) 的處理
+2025-08-27 22:06:27,316 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:28,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:28,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:29,477 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:29,477 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:06:29,477 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:30,357 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:30,910 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:31,414 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:32,733 - INFO - 正在查詢 [系所:21, 年級:1]
+2025-08-27 22:06:33,200 - INFO - 成功解析到 24 筆課程資料
+2025-08-27 22:06:34,605 - INFO - 正在查詢 [系所:21, 年級:2]
+2025-08-27 22:06:35,103 - INFO - 成功解析到 19 筆課程資料
+2025-08-27 22:06:35,685 - INFO - 正在查詢 [系所:21, 年級:3]
+2025-08-27 22:06:36,054 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:06:37,165 - INFO - 正在查詢 [系所:21, 年級:4]
+2025-08-27 22:06:37,526 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:06:40,635 - INFO - 完成系所 商業設計學系 (21) 的處理
+2025-08-27 22:06:40,635 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:41,552 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:42,340 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:43,024 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:43,024 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:06:43,025 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:43,895 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:44,520 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:45,146 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:46,508 - INFO - 正在查詢 [系所:23, 年級:1]
+2025-08-27 22:06:47,127 - INFO - 成功解析到 24 筆課程資料
+2025-08-27 22:06:47,707 - INFO - 正在查詢 [系所:23, 年級:2]
+2025-08-27 22:06:48,191 - INFO - 成功解析到 18 筆課程資料
+2025-08-27 22:06:49,519 - INFO - 正在查詢 [系所:23, 年級:3]
+2025-08-27 22:06:50,019 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:06:51,346 - INFO - 正在查詢 [系所:23, 年級:4]
+2025-08-27 22:06:51,714 - INFO - 成功解析到 10 筆課程資料
+2025-08-27 22:06:55,319 - INFO - 完成系所 商品設計學系 (23) 的處理
+2025-08-27 22:06:55,319 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:56,222 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:56,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:57,318 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:06:57,319 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:06:57,319 - INFO - ====== WebDriver manager ======
+2025-08-27 22:06:58,218 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:58,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:06:59,446 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:00,758 - INFO - 正在查詢 [系所:24, 年級:1]
+2025-08-27 22:07:01,218 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:07:02,580 - INFO - 正在查詢 [系所:24, 年級:2]
+2025-08-27 22:07:02,970 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:07:04,386 - INFO - 正在查詢 [系所:24, 年級:3]
+2025-08-27 22:07:04,767 - INFO - 成功解析到 10 筆課程資料
+2025-08-27 22:07:06,081 - INFO - 正在查詢 [系所:24, 年級:4]
+2025-08-27 22:07:06,469 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:07:09,532 - INFO - 完成系所 建築學系 (24) 的處理
+2025-08-27 22:07:09,533 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:10,454 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:11,099 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:11,658 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:11,659 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:07:11,659 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:12,564 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:13,178 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:13,833 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:15,194 - INFO - 正在查詢 [系所:26, 年級:1]
+2025-08-27 22:07:15,859 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:07:17,133 - INFO - 正在查詢 [系所:26, 年級:2]
+2025-08-27 22:07:17,536 - INFO - 成功解析到 11 筆課程資料
+2025-08-27 22:07:18,667 - INFO - 正在查詢 [系所:26, 年級:3]
+2025-08-27 22:07:19,063 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:07:20,405 - INFO - 正在查詢 [系所:26, 年級:4]
+2025-08-27 22:07:20,530 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:07:23,929 - INFO - 完成系所 廣告暨策略行銷學系 (26) 的處理
+2025-08-27 22:07:23,931 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:24,884 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:25,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:26,121 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:26,122 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:07:26,122 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:27,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:27,721 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:28,272 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:29,652 - INFO - 正在查詢 [系所:27, 年級:1]
+2025-08-27 22:07:30,069 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:07:30,818 - INFO - 正在查詢 [系所:27, 年級:2]
+2025-08-27 22:07:31,202 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:07:32,178 - INFO - 正在查詢 [系所:27, 年級:3]
+2025-08-27 22:07:32,531 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:07:33,075 - INFO - 正在查詢 [系所:27, 年級:4]
+2025-08-27 22:07:33,466 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:07:36,816 - INFO - 完成系所 新聞與大眾傳播學士學位學程 (27) 的處理
+2025-08-27 22:07:36,816 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:37,771 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:40,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:41,381 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:41,381 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:07:41,381 - INFO - ====== WebDriver manager ======
+2025-08-27 22:07:42,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:43,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:07:43,621 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:07:45,047 - INFO - 正在查詢 [系所:30, 年級:1]
+2025-08-27 22:07:45,516 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:07:46,661 - INFO - 正在查詢 [系所:30, 年級:2]
+2025-08-27 22:07:47,088 - INFO - 成功解析到 11 筆課程資料
+2025-08-27 22:07:48,213 - INFO - 正在查詢 [系所:30, 年級:3]
+2025-08-27 22:07:48,643 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:07:49,162 - INFO - 正在查詢 [系所:30, 年級:4]
+2025-08-27 22:08:09,752 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:08:13,672 - INFO - 完成系所 傳播學院 (30) 的處理
+2025-08-27 22:08:13,672 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:14,572 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:15,333 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:15,847 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:15,847 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:08:15,848 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:16,778 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:17,323 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:19,147 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:20,485 - INFO - 正在查詢 [系所:31, 年級:1]
+2025-08-27 22:08:20,959 - INFO - 成功解析到 15 筆課程資料
+2025-08-27 22:08:21,900 - INFO - 正在查詢 [系所:31, 年級:2]
+2025-08-27 22:08:22,296 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:08:22,821 - INFO - 正在查詢 [系所:31, 年級:3]
+2025-08-27 22:08:23,183 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:08:24,123 - INFO - 正在查詢 [系所:31, 年級:4]
+2025-08-27 22:08:24,470 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:08:28,469 - INFO - 完成系所 新媒體暨傳播管理學系 (31) 的處理
+2025-08-27 22:08:28,470 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:29,341 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:29,883 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:30,412 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:30,412 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:08:30,412 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:31,284 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:31,910 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:33,539 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:34,866 - INFO - 正在查詢 [系所:32, 年級:1]
+2025-08-27 22:08:35,295 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:08:36,007 - INFO - 正在查詢 [系所:32, 年級:2]
+2025-08-27 22:08:36,135 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:08:37,404 - INFO - 正在查詢 [系所:32, 年級:3]
+2025-08-27 22:08:37,933 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:08:38,629 - INFO - 正在查詢 [系所:32, 年級:4]
+2025-08-27 22:08:38,989 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:08:43,010 - INFO - 完成系所 廣播電視學系 (32) 的處理
+2025-08-27 22:08:43,010 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:43,879 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:44,549 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:45,168 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:45,168 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:08:45,168 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:46,040 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:48,363 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:08:48,893 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:08:50,244 - INFO - 正在查詢 [系所:36, 年級:1]
+2025-08-27 22:08:50,854 - INFO - 成功解析到 30 筆課程資料
+2025-08-27 22:08:51,830 - INFO - 正在查詢 [系所:36, 年級:2]
+2025-08-27 22:08:52,288 - INFO - 成功解析到 21 筆課程資料
+2025-08-27 22:08:53,222 - INFO - 正在查詢 [系所:36, 年級:3]
+2025-08-27 22:08:53,594 - INFO - 成功解析到 21 筆課程資料
+2025-08-27 22:08:54,714 - INFO - 正在查詢 [系所:36, 年級:4]
+2025-08-27 22:08:55,082 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:08:58,987 - INFO - 完成系所 資訊工程學系 (36) 的處理
+2025-08-27 22:08:58,987 - INFO - ====== WebDriver manager ======
+2025-08-27 22:08:59,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:00,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:01,017 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:01,018 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:09:01,018 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:01,886 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:02,438 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:03,310 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:04,723 - INFO - 正在查詢 [系所:38, 年級:1]
+2025-08-27 22:09:05,257 - INFO - 成功解析到 25 筆課程資料
+2025-08-27 22:09:06,530 - INFO - 正在查詢 [系所:38, 年級:2]
+2025-08-27 22:09:06,949 - INFO - 成功解析到 10 筆課程資料
+2025-08-27 22:09:07,802 - INFO - 正在查詢 [系所:38, 年級:3]
+2025-08-27 22:09:08,173 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:09:09,142 - INFO - 正在查詢 [系所:38, 年級:4]
+2025-08-27 22:09:09,261 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:09:13,221 - INFO - 完成系所 犯罪防治學系 (38) 的處理
+2025-08-27 22:09:13,222 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:14,093 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:14,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:16,329 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:16,329 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:09:16,329 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:17,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:18,139 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:18,866 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:20,302 - INFO - 正在查詢 [系所:39, 年級:1]
+2025-08-27 22:09:20,796 - INFO - 成功解析到 43 筆課程資料
+2025-08-27 22:09:21,550 - INFO - 正在查詢 [系所:39, 年級:2]
+2025-08-27 22:09:21,956 - INFO - 成功解析到 22 筆課程資料
+2025-08-27 22:09:23,407 - INFO - 正在查詢 [系所:39, 年級:3]
+2025-08-27 22:09:23,845 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:09:24,982 - INFO - 正在查詢 [系所:39, 年級:4]
+2025-08-27 22:09:25,357 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:09:29,018 - INFO - 完成系所 生物科技學系 (39) 的處理
+2025-08-27 22:09:29,018 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:29,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:30,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:31,300 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:31,300 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:09:31,300 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:32,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:32,793 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:34,937 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:36,298 - INFO - 正在查詢 [系所:40, 年級:1]
+2025-08-27 22:09:36,777 - INFO - 成功解析到 17 筆課程資料
+2025-08-27 22:09:37,602 - INFO - 正在查詢 [系所:40, 年級:2]
+2025-08-27 22:09:38,047 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:09:39,394 - INFO - 正在查詢 [系所:40, 年級:3]
+2025-08-27 22:09:39,770 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:09:40,494 - INFO - 正在查詢 [系所:40, 年級:4]
+2025-08-27 22:09:40,845 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:09:44,327 - INFO - 完成系所 醫療資訊與管理學系 (40) 的處理
+2025-08-27 22:09:44,327 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:45,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:45,834 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:46,474 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:46,474 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:09:46,474 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:47,339 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:47,849 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:48,419 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:09:49,799 - INFO - 正在查詢 [系所:41, 年級:1]
+2025-08-27 22:09:50,230 - INFO - 成功解析到 17 筆課程資料
+2025-08-27 22:09:50,865 - INFO - 正在查詢 [系所:41, 年級:2]
+2025-08-27 22:09:51,228 - INFO - 成功解析到 17 筆課程資料
+2025-08-27 22:09:52,065 - INFO - 正在查詢 [系所:41, 年級:3]
+2025-08-27 22:09:52,440 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:09:53,131 - INFO - 正在查詢 [系所:41, 年級:4]
+2025-08-27 22:09:53,496 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:09:57,730 - INFO - 完成系所 法律學系 (41) 的處理
+2025-08-27 22:09:57,730 - INFO - ====== WebDriver manager ======
+2025-08-27 22:09:58,595 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:09:59,390 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:00,071 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:00,071 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:10:00,071 - INFO - ====== WebDriver manager ======
+2025-08-27 22:10:00,943 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:01,473 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:01,994 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:03,330 - INFO - 正在查詢 [系所:42, 年級:1]
+2025-08-27 22:10:03,954 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:10:04,985 - INFO - 正在查詢 [系所:42, 年級:2]
+2025-08-27 22:10:05,338 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:10:05,849 - INFO - 正在查詢 [系所:42, 年級:3]
+2025-08-27 22:10:06,227 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:10:07,087 - INFO - 正在查詢 [系所:42, 年級:4]
+2025-08-27 22:10:07,477 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:10:11,723 - INFO - 完成系所 應用英語學系 (42) 的處理
+2025-08-27 22:10:11,723 - INFO - ====== WebDriver manager ======
+2025-08-27 22:10:12,594 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:13,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:13,657 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:13,657 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:10:13,657 - INFO - ====== WebDriver manager ======
+2025-08-27 22:10:14,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:15,039 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:15,544 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:16,861 - INFO - 正在查詢 [系所:44, 年級:1]
+2025-08-27 22:10:17,277 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:10:18,097 - INFO - 正在查詢 [系所:44, 年級:2]
+2025-08-27 22:10:18,227 - INFO - 成功解析到 14 筆課程資料
+2025-08-27 22:10:19,401 - INFO - 正在查詢 [系所:44, 年級:3]
+2025-08-27 22:10:19,783 - INFO - 成功解析到 20 筆課程資料
+2025-08-27 22:10:21,228 - INFO - 正在查詢 [系所:44, 年級:4]
+2025-08-27 22:10:21,606 - INFO - 成功解析到 10 筆課程資料
+2025-08-27 22:10:25,844 - INFO - 完成系所 應用日語學系 (44) 的處理
+2025-08-27 22:10:25,845 - INFO - ====== WebDriver manager ======
+2025-08-27 22:10:26,725 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:27,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:28,215 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:28,216 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:10:28,216 - INFO - ====== WebDriver manager ======
+2025-08-27 22:10:29,083 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:29,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:10:30,609 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:10:31,896 - INFO - 正在查詢 [系所:46, 年級:1]
+2025-08-27 22:10:52,470 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:10:53,814 - INFO - 正在查詢 [系所:46, 年級:2]
+2025-08-27 22:10:54,443 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:10:55,219 - INFO - 正在查詢 [系所:46, 年級:3]
+2025-08-27 22:10:55,340 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:10:56,524 - INFO - 正在查詢 [系所:46, 年級:4]
+2025-08-27 22:10:56,881 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:11:00,506 - INFO - 完成系所 金融科技應用學士學位學程 (46) 的處理
+2025-08-27 22:11:00,506 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:01,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:02,010 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:02,622 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:02,622 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:11:02,622 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:03,519 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:04,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:04,561 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:06,004 - INFO - 正在查詢 [系所:48, 年級:1]
+2025-08-27 22:11:06,427 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:11:06,977 - INFO - 正在查詢 [系所:48, 年級:2]
+2025-08-27 22:11:07,342 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:11:08,812 - INFO - 正在查詢 [系所:48, 年級:3]
+2025-08-27 22:11:09,187 - INFO - 成功解析到 5 筆課程資料
+2025-08-27 22:11:09,959 - INFO - 正在查詢 [系所:48, 年級:4]
+2025-08-27 22:11:10,329 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:11:14,083 - INFO - 完成系所 旅遊與觀光學士學位學程 (48) 的處理
+2025-08-27 22:11:14,084 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:15,028 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:15,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:16,105 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:16,106 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:11:16,106 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:17,003 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:17,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:24,194 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:25,562 - INFO - 正在查詢 [系所:52, 年級:1]
+2025-08-27 22:11:26,124 - INFO - 成功解析到 30 筆課程資料
+2025-08-27 22:11:27,200 - INFO - 正在查詢 [系所:52, 年級:2]
+2025-08-27 22:11:27,594 - INFO - 成功解析到 30 筆課程資料
+2025-08-27 22:11:28,820 - INFO - 正在查詢 [系所:52, 年級:3]
+2025-08-27 22:11:29,213 - INFO - 成功解析到 13 筆課程資料
+2025-08-27 22:11:29,822 - INFO - 正在查詢 [系所:52, 年級:4]
+2025-08-27 22:11:30,259 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:11:33,602 - INFO - 完成系所 會計學系 (52) 的處理
+2025-08-27 22:11:33,602 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:34,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:35,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:35,630 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:35,630 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:11:35,630 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:36,505 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:37,127 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:37,852 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:39,155 - INFO - 正在查詢 [系所:53, 年級:1]
+2025-08-27 22:11:39,659 - INFO - 成功解析到 20 筆課程資料
+2025-08-27 22:11:40,673 - INFO - 正在查詢 [系所:53, 年級:2]
+2025-08-27 22:11:41,135 - INFO - 成功解析到 15 筆課程資料
+2025-08-27 22:11:42,505 - INFO - 正在查詢 [系所:53, 年級:3]
+2025-08-27 22:11:42,866 - ERROR -   > 查詢或解析時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:11:43,525 - INFO - 正在查詢 [系所:53, 年級:4]
+2025-08-27 22:11:43,921 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:11:48,087 - INFO - 完成系所 資訊應用與金融保險學系 (53) 的處理
+2025-08-27 22:11:48,087 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:49,011 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:49,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:50,272 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:50,273 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:11:50,273 - INFO - ====== WebDriver manager ======
+2025-08-27 22:11:51,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:51,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:11:54,488 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:11:55,868 - INFO - 正在查詢 [系所:54, 年級:1]
+2025-08-27 22:11:56,394 - INFO - 成功解析到 32 筆課程資料
+2025-08-27 22:11:57,216 - INFO - 正在查詢 [系所:54, 年級:2]
+2025-08-27 22:11:57,678 - INFO - 成功解析到 32 筆課程資料
+2025-08-27 22:11:59,114 - INFO - 正在查詢 [系所:54, 年級:3]
+2025-08-27 22:11:59,553 - INFO - 成功解析到 11 筆課程資料
+2025-08-27 22:12:00,729 - INFO - 正在查詢 [系所:54, 年級:4]
+2025-08-27 22:12:01,158 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:12:04,915 - INFO - 完成系所 財務金融學系 (54) 的處理
+2025-08-27 22:12:04,915 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:05,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:06,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:06,979 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:06,980 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:12:06,980 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:07,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:08,488 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:09,119 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:10,430 - INFO - 正在查詢 [系所:57, 年級:1]
+2025-08-27 22:12:11,120 - INFO - 成功解析到 33 筆課程資料
+2025-08-27 22:12:11,771 - INFO - 正在查詢 [系所:57, 年級:2]
+2025-08-27 22:12:11,914 - INFO - 成功解析到 33 筆課程資料
+2025-08-27 22:12:12,418 - INFO - 正在查詢 [系所:57, 年級:3]
+2025-08-27 22:12:12,882 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:12:13,656 - INFO - 正在查詢 [系所:57, 年級:4]
+2025-08-27 22:12:14,113 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:12:18,038 - INFO - 完成系所 國際企業學系 (57) 的處理
+2025-08-27 22:12:18,038 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:18,917 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:19,428 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:19,965 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:19,965 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:12:19,965 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:20,845 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:21,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:22,294 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:23,583 - INFO - 正在查詢 [系所:59, 年級:1]
+2025-08-27 22:12:23,987 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:12:25,106 - INFO - 正在查詢 [系所:59, 年級:2]
+2025-08-27 22:12:25,475 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:12:26,630 - INFO - 正在查詢 [系所:59, 年級:3]
+2025-08-27 22:12:26,755 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:12:27,619 - INFO - 正在查詢 [系所:59, 年級:4]
+2025-08-27 22:12:27,990 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:12:32,491 - INFO - 完成系所 國際事務與外交學士學位學程 (59) 的處理
+2025-08-27 22:12:32,491 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:33,384 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:34,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:34,851 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:34,851 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:12:34,851 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:35,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:36,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:36,954 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:38,277 - INFO - 正在查詢 [系所:60, 年級:1]
+2025-08-27 22:12:38,748 - INFO - 成功解析到 17 筆課程資料
+2025-08-27 22:12:39,437 - INFO - 正在查詢 [系所:60, 年級:2]
+2025-08-27 22:12:39,868 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:12:40,459 - INFO - 正在查詢 [系所:60, 年級:3]
+2025-08-27 22:12:40,867 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:12:42,345 - INFO - 正在查詢 [系所:60, 年級:4]
+2025-08-27 22:12:42,740 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:12:46,492 - INFO - 完成系所 諮商臨床與工商心理學系 (60) 的處理
+2025-08-27 22:12:46,492 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:47,374 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:47,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:48,536 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:48,537 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:12:48,537 - INFO - ====== WebDriver manager ======
+2025-08-27 22:12:49,411 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:50,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:12:50,743 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:12:52,148 - INFO - 正在查詢 [系所:61, 年級:1]
+2025-08-27 22:12:52,809 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:12:54,042 - INFO - 正在查詢 [系所:61, 年級:2]
+2025-08-27 22:12:54,205 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:12:55,484 - INFO - 正在查詢 [系所:61, 年級:3]
+2025-08-27 22:12:55,601 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:12:56,774 - INFO - 正在查詢 [系所:61, 年級:4]
+2025-08-27 22:13:17,096 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:13:20,768 - INFO - 完成系所 諮商臨床與工商心理學系碩士班諮商心理學組 (61) 的處理
+2025-08-27 22:13:20,768 - INFO - ====== WebDriver manager ======
+2025-08-27 22:13:21,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:13:22,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:13:23,024 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:13:23,025 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:13:23,025 - INFO - ====== WebDriver manager ======
+2025-08-27 22:13:24,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:13:24,660 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:13:25,455 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:13:26,814 - INFO - 正在查詢 [系所:62, 年級:1]
+2025-08-27 22:13:27,241 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:13:27,939 - INFO - 正在查詢 [系所:62, 年級:2]
+2025-08-27 22:13:28,325 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:13:29,669 - INFO - 正在查詢 [系所:62, 年級:3]
+2025-08-27 22:13:50,289 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:13:51,600 - INFO - 正在查詢 [系所:62, 年級:4]
+2025-08-27 22:14:11,979 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:14:15,777 - INFO - 完成系所 諮商臨床與工商心理學系碩士班臨床心理學組 (62) 的處理
+2025-08-27 22:14:15,777 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:16,659 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:17,293 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:17,932 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:17,932 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:14:17,932 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:18,810 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:19,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:20,057 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:21,339 - INFO - 正在查詢 [系所:64, 年級:1]
+2025-08-27 22:14:21,811 - INFO - 成功解析到 13 筆課程資料
+2025-08-27 22:14:23,243 - INFO - 正在查詢 [系所:64, 年級:2]
+2025-08-27 22:14:23,591 - INFO - 成功解析到 13 筆課程資料
+2025-08-27 22:14:24,811 - INFO - 正在查詢 [系所:64, 年級:3]
+2025-08-27 22:14:25,158 - INFO - 成功解析到 7 筆課程資料
+2025-08-27 22:14:26,225 - INFO - 正在查詢 [系所:64, 年級:4]
+2025-08-27 22:14:26,348 - INFO - 成功解析到 5 筆課程資料
+2025-08-27 22:14:30,331 - INFO - 完成系所 金融學系 (64) 的處理
+2025-08-27 22:14:30,331 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:31,218 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:31,762 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:32,581 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:32,581 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:14:32,581 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:33,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:34,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:35,040 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:36,392 - INFO - 正在查詢 [系所:65, 年級:1]
+2025-08-27 22:14:36,812 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:14:38,038 - INFO - 正在查詢 [系所:65, 年級:2]
+2025-08-27 22:14:38,466 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:14:39,176 - INFO - 正在查詢 [系所:65, 年級:3]
+2025-08-27 22:14:39,299 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:14:40,507 - INFO - 正在查詢 [系所:65, 年級:4]
+2025-08-27 22:14:40,632 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:14:44,210 - INFO - 完成系所 財金法律學系 (65) 的處理
+2025-08-27 22:14:44,210 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:45,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:45,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:46,428 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:46,428 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:14:46,428 - INFO - ====== WebDriver manager ======
+2025-08-27 22:14:47,300 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:47,914 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:14:48,532 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:14:49,815 - INFO - 正在查詢 [系所:67, 年級:1]
+2025-08-27 22:14:50,225 - INFO - 成功解析到 9 筆課程資料
+2025-08-27 22:14:51,670 - INFO - 正在查詢 [系所:67, 年級:2]
+2025-08-27 22:14:52,056 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:14:53,134 - INFO - 正在查詢 [系所:67, 年級:3]
+2025-08-27 22:14:53,498 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:14:54,973 - INFO - 正在查詢 [系所:67, 年級:4]
+2025-08-27 22:14:55,372 - INFO - 成功解析到 1 筆課程資料
+2025-08-27 22:14:59,509 - INFO - 完成系所 生物醫學工程學系 (67) 的處理
+2025-08-27 22:14:59,509 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:00,476 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:01,097 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:01,716 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:01,716 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:15:01,716 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:02,661 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:03,495 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:04,126 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:05,572 - INFO - 正在查詢 [系所:68, 年級:1]
+2025-08-27 22:15:06,159 - INFO - 成功解析到 19 筆課程資料
+2025-08-27 22:15:07,174 - INFO - 正在查詢 [系所:68, 年級:2]
+2025-08-27 22:15:07,543 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:15:08,597 - INFO - 正在查詢 [系所:68, 年級:3]
+2025-08-27 22:15:08,985 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:15:10,131 - INFO - 正在查詢 [系所:68, 年級:4]
+2025-08-27 22:15:10,556 - INFO - 成功解析到 4 筆課程資料
+2025-08-27 22:15:14,897 - INFO - 完成系所 公共事務與行政管理學系 (68) 的處理
+2025-08-27 22:15:14,897 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:15,853 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:16,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:17,112 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:17,112 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:15:17,112 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:18,137 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:18,844 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:19,533 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:20,930 - INFO - 正在查詢 [系所:70, 年級:1]
+2025-08-27 22:15:21,376 - INFO - 成功解析到 3 筆課程資料
+2025-08-27 22:15:22,175 - INFO - 正在查詢 [系所:70, 年級:2]
+2025-08-27 22:15:22,588 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:15:23,255 - INFO - 正在查詢 [系所:70, 年級:3]
+2025-08-27 22:15:23,378 - INFO - 成功解析到 2 筆課程資料
+2025-08-27 22:15:24,757 - INFO - 正在查詢 [系所:70, 年級:4]
+2025-08-27 22:15:45,334 - WARNING -   > 查無資料 (等待超時)。
+2025-08-27 22:15:49,742 - INFO - 完成系所 高階經理碩士在職學位學程 (70) 的處理
+2025-08-27 22:15:49,742 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:50,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:51,205 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:51,726 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:51,727 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:15:51,727 - INFO - ====== WebDriver manager ======
+2025-08-27 22:15:52,610 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:53,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:15:53,764 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:15:55,173 - INFO - 正在查詢 [系所:74, 年級:1]
+2025-08-27 22:15:55,653 - INFO - 成功解析到 12 筆課程資料
+2025-08-27 22:15:56,475 - INFO - 正在查詢 [系所:74, 年級:2]
+2025-08-27 22:15:56,875 - INFO - 成功解析到 16 筆課程資料
+2025-08-27 22:15:58,182 - INFO - 正在查詢 [系所:74, 年級:3]
+2025-08-27 22:15:58,544 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:15:59,424 - INFO - 正在查詢 [系所:74, 年級:4]
+2025-08-27 22:15:59,769 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:16:03,751 - INFO - 完成系所 都市設計與永續發展學系 (74) 的處理
+2025-08-27 22:16:03,751 - INFO - ====== WebDriver manager ======
+2025-08-27 22:16:04,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:05,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:05,711 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:16:05,711 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:16:05,711 - INFO - ====== WebDriver manager ======
+2025-08-27 22:16:06,588 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:07,124 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:07,744 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:16:09,055 - INFO - 正在查詢 [系所:75, 年級:1]
+2025-08-27 22:16:09,577 - INFO - 成功解析到 19 筆課程資料
+2025-08-27 22:16:10,722 - INFO - 正在查詢 [系所:75, 年級:2]
+2025-08-27 22:16:11,128 - INFO - 成功解析到 13 筆課程資料
+2025-08-27 22:16:12,326 - INFO - 正在查詢 [系所:75, 年級:3]
+2025-08-27 22:16:12,700 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:16:14,162 - INFO - 正在查詢 [系所:75, 年級:4]
+2025-08-27 22:16:14,538 - INFO - 成功解析到 6 筆課程資料
+2025-08-27 22:16:19,112 - INFO - 完成系所 人工智慧應用學系 (75) 的處理
+2025-08-27 22:16:19,112 - INFO - ====== WebDriver manager ======
+2025-08-27 22:16:20,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:20,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:21,064 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:16:21,064 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:16:21,064 - INFO - ====== WebDriver manager ======
+2025-08-27 22:16:21,935 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:22,529 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:16:23,152 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:16:24,506 - INFO - 正在查詢 [系所:76, 年級:1]
+2025-08-27 22:16:24,960 - INFO - 成功解析到 16 筆課程資料
+2025-08-27 22:16:26,414 - INFO - 正在查詢 [系所:76, 年級:2]
+2025-08-27 22:16:26,805 - INFO - 成功解析到 8 筆課程資料
+2025-08-27 22:16:27,494 - INFO - 正在查詢 [系所:76, 年級:3]
+2025-08-27 22:16:35,599 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, '遠端主機已強制關閉一個現存的連線。', None, 10054, None))': /session/9989ef89fd5f98e461f0af352277dc57
+2025-08-27 22:16:37,650 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E86BA176E0>: Failed to establish a new connection: [WinError 10061] 無法連線，因為目標電腦拒絕連線。')': /session/9989ef89fd5f98e461f0af352277dc57
+2025-08-27 22:16:39,702 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E86C3542F0>: Failed to establish a new connection: [WinError 10061] 無法連線，因為目標電腦拒絕連線。')': /session/9989ef89fd5f98e461f0af352277dc57
+2025-08-27 22:17:07,303 - INFO - ====== WebDriver manager ======
+2025-08-27 22:17:08,216 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:17:08,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:17:09,288 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:17:09,289 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:17:09,289 - INFO - ====== WebDriver manager ======
+2025-08-27 22:17:10,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:17:10,709 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:17:11,267 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:17:29,038 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:17:31,423 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:17:47,915 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:17:52,985 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:18:02,350 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:18:06,230 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:18:34,824 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:18:43,098 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:19:00,918 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:19:08,521 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:19:21,694 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:19:42,622 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:19:44,965 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:20:09,447 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:20:23,690 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:20:40,317 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:20:53,147 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:20:58,714 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:21:02,168 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:21:16,504 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:21:34,272 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:21:45,186 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:21:48,753 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:22:01,710 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:22:12,575 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:22:23,970 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:22:26,561 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:22:45,713 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:23:03,140 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:23:16,405 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:23:27,632 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:23:40,302 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:23:51,196 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:24:02,495 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:24:15,972 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:24:26,813 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:24:29,943 - INFO - ====== WebDriver manager ======
+2025-08-27 22:24:30,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:24:31,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:24:32,018 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:24:32,019 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:24:32,019 - INFO - ====== WebDriver manager ======
+2025-08-27 22:24:32,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:24:33,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:24:34,066 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:24:48,187 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:24:59,260 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:25:10,041 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:25:20,776 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:25:27,320 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:25:57,009 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:26:01,478 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:26:22,986 - ERROR - 爬取 傳播學院-1年級 時失敗: Message: Cannot locate option with value: 30
+
+2025-08-27 22:26:23,265 - ERROR - 爬取 傳播學院-2年級 時失敗: Message: Cannot locate option with value: 30
+
+2025-08-27 22:26:23,528 - ERROR - 爬取 傳播學院-3年級 時失敗: Message: Cannot locate option with value: 30
+
+2025-08-27 22:26:23,794 - ERROR - 爬取 傳播學院-4年級 時失敗: Message: Cannot locate option with value: 30
+
+2025-08-27 22:26:27,224 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:27:08,885 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:27:26,561 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:27:33,414 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:27:41,048 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:27:48,506 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:28:03,485 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:28:17,773 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:28:26,961 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:28:28,671 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:28:39,559 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:28:51,329 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:28:56,901 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:28:59,470 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:29:12,380 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:29:23,227 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:29:40,341 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:29:51,183 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:30:08,561 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:30:19,673 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:35:25,247 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:35:40,258 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:35:51,038 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:35:54,504 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:36:10,074 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:36:11,095 - ERROR - 爬取 國防行政管理進修學士學位學程-1年級 時失敗: Message: Cannot locate option with value: 98
+
+2025-08-27 22:36:11,338 - ERROR - 爬取 國防行政管理進修學士學位學程-2年級 時失敗: Message: Cannot locate option with value: 98
+
+2025-08-27 22:36:11,569 - ERROR - 爬取 國防行政管理進修學士學位學程-3年級 時失敗: Message: Cannot locate option with value: 98
+
+2025-08-27 22:36:11,798 - ERROR - 爬取 國防行政管理進修學士學位學程-4年級 時失敗: Message: Cannot locate option with value: 98
+
+2025-08-27 22:36:12,034 - ERROR - 爬取 國際班-1年級 時失敗: Message: Cannot locate option with value: 99
+
+2025-08-27 22:36:12,266 - ERROR - 爬取 國際班-2年級 時失敗: Message: Cannot locate option with value: 99
+
+2025-08-27 22:36:12,493 - ERROR - 爬取 國際班-3年級 時失敗: Message: Cannot locate option with value: 99
+
+2025-08-27 22:36:12,733 - ERROR - 爬取 國際班-4年級 時失敗: Message: Cannot locate option with value: 99
+
+2025-08-27 22:36:25,494 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:36:36,450 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:36:39,283 - INFO - ====== WebDriver manager ======
+2025-08-27 22:36:40,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:40,713 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:41,229 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:36:41,229 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:36:41,229 - INFO - ====== WebDriver manager ======
+2025-08-27 22:36:42,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:42,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:43,146 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:36:44,665 - ERROR - 爬取 台北校區 時失敗: Message: Cannot locate option with value: T
+
+2025-08-27 22:36:46,746 - INFO - ====== WebDriver manager ======
+2025-08-27 22:36:47,626 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:48,144 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:48,675 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:36:48,675 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:36:48,675 - INFO - ====== WebDriver manager ======
+2025-08-27 22:36:49,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:50,054 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:36:50,577 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:36:51,897 - ERROR - 爬取 台北校區 時失敗: Message: Cannot locate option with value: T
+
+2025-08-27 22:41:40,531 - INFO - ====== WebDriver manager ======
+2025-08-27 22:41:41,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:41:41,992 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:41:42,523 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:41:42,523 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:41:42,523 - INFO - ====== WebDriver manager ======
+2025-08-27 22:41:43,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:41:43,922 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:41:44,460 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:41:48,771 - ERROR - 解析表格時發生錯誤: no text parsed from document (line 0)
+2025-08-27 22:42:00,636 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:42:11,760 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:42:22,843 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:42:33,691 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:42:45,757 - INFO - ====== WebDriver manager ======
+2025-08-27 22:42:46,635 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:42:47,209 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:42:47,776 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:42:47,778 - WARNING - 偵測到舊版 Selenium 語法，切換至 executable_path。
+2025-08-27 22:42:47,778 - INFO - ====== WebDriver manager ======
+2025-08-27 22:42:48,658 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:42:49,322 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-27 22:42:49,841 - INFO - Driver [C:\Users\USER\.wdm\drivers\chromedriver\win64\139.0.7258.154\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-27 22:43:01,377 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:43:14,021 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:43:27,200 - WARNING - 在頁面中找不到課表 (等待超時)。
+2025-08-27 22:43:38,400 - WARNING - 在頁面中找不到課表 (等待超時)。

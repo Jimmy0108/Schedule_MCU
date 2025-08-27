@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://stu.mcu.edu.tw/appx/qry/Qs03.aspx -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	課程查詢
+</title>
+<link rel="stylesheet" type="text/css" href="./課程查詢_files/style.css">
+
+    <script type="text/javascript" src="./課程查詢_files/jquery-1.10.2.js.下載"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#zone-bar li em").click(function () {
+                var hidden = $(this).parents("li").children("ul").is(":hidden");
+
+                $("#zone-bar>ul>li>ul").hide()
+                $("#zone-bar>ul>li>a").removeClass();
+
+                if (hidden) {
+                    $(this)
+                        .parents("li").children("ul").toggle()
+                        .parents("li").children("a").addClass("zoneCur");
+                }
+            });
+        });
+    </script>
+    <style type="text/css">
+        .auto-style2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body style="">
+    <form method="post" action="https://stu.mcu.edu.tw/appx/qry/Qs03.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTIzNzY3OTczMw9kFgJmD2QWAgIDD2QWBgIDD2QWBAIBDw8WAh4EVGV4dAUWMTE05a245bm05bqm56ysMeWtuOacn2RkAgMPDxYCHwAFFjExM+WtuOW5tOW6puesrDLlrbjmnJ9kZAIFD2QWBgIBDw8WAh8ABRzjgJAxMTTlrbjlubTluqbnrKwx5a245pyf44CRZGQCAw8PFgIfAAUBMWRkAgcPEA8WBh4NRGF0YVRleHRGaWVsZAUIZGVwdG5hbWUeDkRhdGFWYWx1ZUZpZWxkBQRjb2RlHgtfIURhdGFCb3VuZGdkEBU4Ceiri+mBuOaThzEwMS3oi7Hoqp7mlZnlrbjkuK3lv4MgICAgICAgICAgICAgICAgICAgICAgICAgICAgLjAyLemrlOiCsuWupCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzMDkt5pW45L2N5aqS6auU6Kit6KiI5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgMTExLeS8gealreeuoeeQhuWtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMTMt6LOH6KiK566h55CG5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDExNC3op4DlhYnkuovmpa3lrbjns7sgICAgICAgICAgICAgICAgICAgICAgICAgICAgNjE1LeW9semfs+aWsOiBnuaaqOekvue+pOWCs+aSreWtuOezuyAgICAgICAgICAgICAgICAgIDYxNy3mh4nnlKjntbHoqIjoiIfos4fmlpnnp5Hlrbjlrbjns7sgICAgICAgICAgICAgICAgICAzMTgt5LyR6ZaS6YGK5oap566h55CG5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgMTE5LemkkOaXheeuoeeQhuWtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMjEt5ZWG5qWt6Kit6KiI5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEyMy3llYblk4HoqK3oqIjlrbjns7sgICAgICAgICAgICAgICAgICAgICAgICAgICAgLzI0LeW7uuevieWtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNDI2LeW7o+WRiuaaqOetlueVpeihjOmKt+WtuOezuyAgICAgICAgICAgICAgICAgICAgICA4Mjct5paw6IGe6IiH5aSn55y+5YKz5pKt5a245aOr5a245L2N5a2456iLICAgICAgICAgICAgICAvMzAt5YKz5pKt5a246ZmiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA1MzEt5paw5aqS6auU5pqo5YKz5pKt566h55CG5a2457O7ICAgICAgICAgICAgICAgICAgICAxMzIt5buj5pKt6Zu76KaW5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDEzNi3os4foqIrlt6XnqIvlrbjns7sgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTM4LeeKr+e9qumYsuayu+WtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMzkt55Sf54mp56eR5oqA5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQ0MC3phqvnmYLos4foqIroiIfnrqHnkIblrbjns7sgICAgICAgICAgICAgICAgICAgICAgLzQxLeazleW+i+WtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTQyLeaHieeUqOiLseiqnuWtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNDQt5oeJ55So5pel6Kqe5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDc0Ni3ph5Hono3np5HmioDmh4nnlKjlrbjlo6vlrbjkvY3lrbjnqIsgICAgICAgICAgICAgICAgNjQ4LeaXhemBiuiIh+ingOWFieWtuOWjq+WtuOS9jeWtuOeoiyAgICAgICAgICAgICAgICAgIC81Mi3mnIPoqIjlrbjns7sgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDY1My3os4foqIrmh4nnlKjoiIfph5Hono3kv53pmqrlrbjns7sgICAgICAgICAgICAgICAgICAxNTQt6LKh5YuZ6YeR6J6N5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE1Ny3lnIvpmpvkvIHmpa3lrbjns7sgICAgICAgICAgICAgICAgICAgICAgICAgICAgODU5LeWci+mam+S6i+WLmeiIh+WkluS6pOWtuOWjq+WtuOS9jeWtuOeoiyAgICAgICAgICAgICAgNjYwLeirruWVhuiHqOW6iuiIh+W3peWVhuW/g+eQhuWtuOezuyAgICAgICAgICAgICAgICAgID82MS3oq67llYboh6jluoroiIflt6XllYblv4PnkIblrbjns7vnoqnlo6vnj63oq67llYblv4PnkIblrbjntYQ/NjIt6Kuu5ZWG6Ieo5bqK6IiH5bel5ZWG5b+D55CG5a2457O756Kp5aOr54+t6Ieo5bqK5b+D55CG5a2457WELzY0LemHkeiejeWtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTY1LeiyoemHkeazleW+i+WtuOezuyAgICAgICAgICAgICAgICAgICAgICAgICAgICAzNjct55Sf54mp6Yar5a245bel56iL5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgNjY4LeWFrOWFseS6i+WLmeiIh+ihjOaUv+euoeeQhuWtuOezuyAgICAgICAgICAgICAgICAgIDc3MC3pq5jpmo7ntpPnkIbnoqnlo6vlnKjogbflrbjkvY3lrbjnqIsgICAgICAgICAgICAgICAgNjc0LemDveW4guioreioiOiIh+awuOe6jOeZvOWxleWtuOezuyAgICAgICAgICAgICAgICAgIDM3NS3kurrlt6Xmmbrmhafmh4nnlKjlrbjns7sgICAgICAgICAgICAgICAgICAgICAgICA2NzYt5Y2K5bCO6auU5oeJ55So5a245aOr5a245L2N5a2456iLICAgICAgICAgICAgICAgICAgNjc5LeaHieeUqOS4reaWh+iIh+iPr+iqnuaWh+aVmeWtuOezuyAgICAgICAgICAgICAgICAgIDA4My3mlZnogrLnoJTnqbbmiYAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxODQt6Zu75qmf5bel56iL5a2457O7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDM4Ni3ph5Hono3np5HmioDmh4nnlKjlrbjns7sgICAgICAgICAgICAgICAgICAgICAgICA4ODgt5pmC5bCa6IiH5Ym15paw566h55CG5a245aOr5a245L2N5a2456iLICAgICAgICAgICAgICA6ODkt6LOH6KiK56eR5oqA5oeJ55So6IiH566h55CG5a245aOr5a245L2N5a2456iLICAgICAgICAgIDU5MC3lnIvpmpvkuovli5nnoqnlo6vlrbjkvY3lrbjnqIsgICAgICAgICAgICAgICAgICAgIDg5MS3lnIvpmpvkvIHmpa3oiIfosr/mmJPlrbjlo6vlrbjkvY3lrbjnqIsgICAgICAgICAgICAgIDU5Ni3ph5Hono3np5HmioDnoqnlo6vlrbjkvY3lrbjnqIsgICAgICAgICAgICAgICAgICAgIDk5OC3lnIvpmLLooYzmlL/nrqHnkIbpgLLkv67lrbjlo6vlrbjkvY3lrbjnqIsgICAgICAgICAgICAuOTkt5ZyL6Zqb54+tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDNLTS3ph5HploDmoKHljYAo5LiN5YiG57O75omAKSAgICAgICAgICAgICAgICAgICAgICAVOAACMDECMDICMDkCMTECMTMCMTQCMTUCMTcCMTgCMTkCMjECMjMCMjQCMjYCMjcCMzACMzECMzICMzYCMzgCMzkCNDACNDECNDICNDQCNDYCNDgCNTICNTMCNTQCNTcCNTkCNjACNjECNjICNjQCNjUCNjcCNjgCNzACNzQCNzUCNzYCNzkCODMCODQCODYCODgCODkCOTACOTECOTYCOTgCOTkCS00UKwM4Z2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHDw8WAh8ABQQyMDI1ZGRkPVZZ0JMZgn3XkfEKEiAP2g33O8+zjA61ciIGPSrDoxw=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6D317558">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAEPheAdJnAyi8dYc0uPSi72nYHdSs4dPEggeoGUpo6RSqx0RT89GyTTdsY9XqFBiQNSbntAy77DXuBpXxUEdEBDKWcuIaH4lE9va6APgF6NyKVPCkz2iveuJuxRJdlCCxn5yLRSD7zfw/tibxot6JgJxvt2cMgPTQ8XyqVDOGRat3MunIgLQrn4URWz57O3zY/4QZW1FOQ+h0eAg8k9wLwwQN23wlg+iPRTuyiyf/tdhnCjPhR/CdREFLbmdDqq/Zo1HJjULP/Iowq4hALJKG+J3CmE0K3jzxEW5mGRnNKYzYzXPsn7ybAyciFvQLBUPC9VcYk9MzyP427VM/1LZnnjGbQOdrJ0OFjqcRdzj6X8c1imdrJnHmleRRcBsZpGcDDizUWW2o/kWtnxY16UWUXuo1x1niMH2jicFDh47Edf2HjxUfSZxRofCzasy+5ZX8TMt1tRubsSdM3C8hH8qd5aaubIUrQvTXFukTT1CqODunBzklya/npnQSMaeSPropdujb5FgH6qBvhdzNadTNazU+WaMjgIJtA6/8a7TaDacivu5mQBwCGBuG3TEI+wUsOLX2H+zaEMkrFGRghAUKT13Qq8eMyv00Qwp17sHhps11WG5uIBGpWW8RuYU7MxziC1ViXtB9qBjxVsps6JKfbGhN7t7kkh17lQSc++UCeM7icEJCnQ0xrI3u8zM6CQdn+RBq5pEwUhhF3S6Y/tj+c3Cd5A3ANBbrLV89K/ikgAqmlK4lcseHTsq128ajxg6f2/enX+d570zxSqGwmNlNZozg7IjVxjIp57qB+UKmgetaNp/qQiWQIFsNdhJJmWmIi2JH9kKEtG8Q6TmFEbGvJqRnI2JRh6E+07Rnt3GSaCp0a4H/Hf9/suSYLyS80IyokvVXpCFP9iwyg5+yj6WVtiH2718EkJ3bGxZi0zwu9UA3Az5dsl9Xjzeukv13Og3liWraYwqUvtaBFyE5LwZn6+EoQopXoTbj5GHMRwjEEt/VrwNizR5azMSLamIT4evppJOc0G3+VE78oNAtTjXro3gsOs1wJFw8HFYDhW8ylQ+oNxBuoSyeMy0OzQcBiXl4tsu76cc2TY3/XT9Q2j2R4NelSeQQA6MnQRdQVCkvG7V7sLunGrhTmaD/1J9Nlw8oNfgC9CIUePsEMK23tHE3Hg3fSgQtep7w4P2zvRzOgVoMNqqzPc+FXeA1kJc6vSWHX+DBuUqSn8XaJN+3JjYVJ/YQ46olcAZDgGfHpsxmuyg6T6fgy8rCuVg71x9F0OP0PJCxRCAa53XGjqqaNc/vnOsTdRrk4zSiRX1AFZgRW9Cu1gUVbpqeojxYmFPjIMKy0sYfx5VdZOI4MOvlbRGBt9yY9z0SSs0S7d1KIJ2mWttz8JdDlrvlBUxdk+/FHM/4VUr0o7vL7w9/fWcqPWXUiHyFu7hzu4WzvUz9QCr1ySD4c6a/h8vj7yBaIuQhq19X3I=">
+</div>
+        <div>
+            
+
+
+            <div id="page-wrap">
+                <div id="top-bar" style="text-align: center;">
+                    <div>
+                        <table border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tbody>
+                                <tr><td>
+                                    <img src="./課程查詢_files/book.png"></td>
+                                <td>&nbsp;&nbsp;&nbsp;課&nbsp;&nbsp;&nbsp;程&nbsp;&nbsp;&nbsp;查&nbsp;&nbsp;&nbsp;詢&nbsp;&nbsp;&nbsp;系&nbsp;&nbsp;&nbsp;統</td>
+                            </tr></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <table border="0" align="center" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td valign="top" style="padding-top: 10px" width="10%">
+                                <ul>
+                                            <li>
+                                                
+    <div style="margin-right: auto; margin-top: 15px; text-align: center;">    
+            <a id="tableConten_linkbys11" href="javascript:__doPostBack(&#39;ctl00$tableConten$linkbys11&#39;,&#39;&#39;)">114學年度第1學期</a>
+        <br><br>
+            <a id="tableConten_linkbys12" href="javascript:__doPostBack(&#39;ctl00$tableConten$linkbys12&#39;,&#39;&#39;)">113學年度第2學期</a>
+        <br><br>
+            <a id="tableConten_linkbys10" href="javascript:__doPostBack(&#39;ctl00$tableConten$linkbys10&#39;,&#39;&#39;)">選課期間</a>
+        <br><br>
+        <a href="https://stu.mcu.edu.tw/appx/qry/Image/SecTime.png" target="_blank" id="linkbys00">節次時間對照表</a>
+        <br><br>
+      </div>
+
+                                            </li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs01.aspx">公告</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs13.aspx">特定條件查詢</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs02.aspx">各系固定課表</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs03.aspx">必修課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs04.aspx">選修課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs05.aspx">通識課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs06.aspx">教育學程課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs07.aspx">先修課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs08.aspx">各系重補修</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs09.aspx">三年級體育查詢</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs10.aspx">依課程類別查詢</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs11.aspx">暑修一期課程</a></li>
+                                            <li class="set_5_button4"><a href="https://stu.mcu.edu.tw/appx/qry/Qs12.aspx">暑修二期課程</a></li>
+                                        </ul><table border="0" align="center" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td valign="top" style="padding-top: 10px; padding-left: 15px">
+                                <div id="main-content">
+                                    
+    
+    <div style="margin-left: auto; margin-right: auto; text-align: center;">
+        <h2>【必修課程】</h2>
+    </div>
+        <div style="margin-left: auto; margin-right: auto; text-align: center;">
+            <br>
+            <span id="MainContent_Label1" style="color:SteelBlue;">【114學年度第1學期】</span>
+            
+        &nbsp;&nbsp;
+        <span id="MainContent_lblDepartment">系別代號：</span>
+        <select name="ctl00$MainContent$drpDepartment" id="MainContent_drpDepartment" style="font-size: medium;">
+	<option value="">請選擇</option>
+	<option value="01">01-英語教學中心                            </option>
+	<option value="02">02-體育室                                  </option>
+	<option value="09">09-數位媒體設計學系                        </option>
+	<option value="11">11-企業管理學系                            </option>
+	<option value="13">13-資訊管理學系                            </option>
+	<option value="14">14-觀光事業學系                            </option>
+	<option value="15">15-影音新聞暨社群傳播學系                  </option>
+	<option value="17">17-應用統計與資料科學學系                  </option>
+	<option value="18">18-休閒遊憩管理學系                        </option>
+	<option value="19">19-餐旅管理學系                            </option>
+	<option value="21">21-商業設計學系                            </option>
+	<option value="23">23-商品設計學系                            </option>
+	<option value="24">24-建築學系                                </option>
+	<option value="26">26-廣告暨策略行銷學系                      </option>
+	<option value="27">27-新聞與大眾傳播學士學位學程              </option>
+	<option value="30">30-傳播學院                                </option>
+	<option value="31">31-新媒體暨傳播管理學系                    </option>
+	<option value="32">32-廣播電視學系                            </option>
+	<option value="36">36-資訊工程學系                            </option>
+	<option value="38">38-犯罪防治學系                            </option>
+	<option value="39">39-生物科技學系                            </option>
+	<option value="40">40-醫療資訊與管理學系                      </option>
+	<option value="41">41-法律學系                                </option>
+	<option value="42">42-應用英語學系                            </option>
+	<option value="44">44-應用日語學系                            </option>
+	<option value="46">46-金融科技應用學士學位學程                </option>
+	<option value="48">48-旅遊與觀光學士學位學程                  </option>
+	<option value="52">52-會計學系                                </option>
+	<option value="53">53-資訊應用與金融保險學系                  </option>
+	<option value="54">54-財務金融學系                            </option>
+	<option value="57">57-國際企業學系                            </option>
+	<option value="59">59-國際事務與外交學士學位學程              </option>
+	<option value="60">60-諮商臨床與工商心理學系                  </option>
+	<option value="61">61-諮商臨床與工商心理學系碩士班諮商心理學組</option>
+	<option value="62">62-諮商臨床與工商心理學系碩士班臨床心理學組</option>
+	<option value="64">64-金融學系                                </option>
+	<option value="65">65-財金法律學系                            </option>
+	<option value="67">67-生物醫學工程學系                        </option>
+	<option value="68">68-公共事務與行政管理學系                  </option>
+	<option value="70">70-高階經理碩士在職學位學程                </option>
+	<option value="74">74-都市設計與永續發展學系                  </option>
+	<option value="75">75-人工智慧應用學系                        </option>
+	<option value="76">76-半導體應用學士學位學程                  </option>
+	<option value="79">79-應用中文與華語文教學系                  </option>
+	<option value="83">83-教育研究所                              </option>
+	<option value="84">84-電機工程學系                            </option>
+	<option value="86">86-金融科技應用學系                        </option>
+	<option value="88">88-時尚與創新管理學士學位學程              </option>
+	<option value="89">89-資訊科技應用與管理學士學位學程          </option>
+	<option value="90">90-國際事務碩士學位學程                    </option>
+	<option value="91">91-國際企業與貿易學士學位學程              </option>
+	<option value="96">96-金融科技碩士學位學程                    </option>
+	<option value="98">98-國防行政管理進修學士學位學程            </option>
+	<option value="99">99-國際班                                  </option>
+	<option value="KM">KM-金門校區(不分系所)                      </option>
+
+</select>
+        &nbsp;&nbsp;
+        <span id="MainContent_lblGrade">年級：</span>
+        <select name="ctl00$MainContent$drpGrade" id="MainContent_drpGrade" style="font-size: medium;">
+	<option value="1">一年級</option>
+	<option value="2">二年級</option>
+	<option value="3">三年級</option>
+	<option value="4">四年級</option>
+	<option value="5">五年級</option>
+
+</select>&nbsp;&nbsp;
+
+        <input type="submit" name="ctl00$MainContent$btnSend" value="送出" id="MainContent_btnSend">
+        &nbsp;&nbsp;
+        <input type="submit" name="ctl00$MainContent$btnCln" value="清除畫面資訊" id="MainContent_btnCln">
+    </div>
+        <div id="printlist">
+    
+            </div>
+        <br>
+    
+
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div id="footer" class="auto-style2">
+                    ©<span id="lbl_year">2025</span>
+                    <a href="https://web2.mcu.edu.tw/">Power By Ming Chuan University&nbsp; 銘傳大學</a>
+                </div>
+            </div>
+        </div>
+    </form>
+
+
+
+</body></html>
