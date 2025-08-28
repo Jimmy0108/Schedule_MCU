@@ -1,112 +1,126 @@
 <template>
-  <div class="page-container">
-    <!-- 彈出式提示訊息 -->
-    <div v-if="conflictMessage" class="conflict-notification">
-      <p>{{ conflictMessage }}</p>
-      <button @click="conflictMessage = ''">關閉</button>
-    </div>
+  <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+    <!-- Header -->
+    <header class="text-center mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-blue-800">選課系統</h1>
+        <p class="text-lg md:text-xl text-gray-600 mt-2">輕鬆查詢課程，打造專屬課表</p>
+    </header>
 
-    <!-- 上半部：查詢區 + 課程列表 -->
-    <div class="top-section">
-      <!-- 左側：課程查詢面板 -->
-      <div class="controls-panel">
-        <h2>課程查詢</h2>
-        
-        <div class="control-group">
-          <label>課程類型</label>
-          <div class="button-group">
-            <button 
-              v-for="type in courseTypes" 
-              :key="type.name"
-              :class="{ active: selectedType === type.name }"
-              @click="selectCourseType(type)">
-              {{ type.displayName }}
-            </button>
-          </div>
-        </div>
-
-        <div class="filters">
-          <template v-if="selectedType === '必修課程' || selectedType === '選修課程'">
-            <div class="control-group">
-              <label for="department-select">系所</label>
-              <select id="department-select" v-model="selectedDepartment">
-                <option value="all">所有系所</option>
-                <option v-for="dept in availableDepartments" :key="dept" :value="dept">
-                  {{ dept }}
-                </option>
-              </select>
-            </div>
-            <div class="control-group">
-              <label for="grade-select">年級</label>
-              <select id="grade-select" v-model="selectedGrade">
-                <option value="all">所有年級</option>
-                <option v-for="grade in availableGrades" :key="grade" :value="grade">
-                  {{ grade }} 年級
-                </option>
-              </select>
-            </div>
-          </template>
-
-          <template v-else-if="selectedType === '通識課程' || selectedType === '教育學程課程'">
-             <div class="control-group">
-              <label for="location-select">校區</label>
-              <select id="location-select" v-model="selectedLocation">
-                <option value="all">所有校區</option>
-                <option v-for="loc in availableLocations" :key="loc" :value="loc">
-                  {{ loc }}
-                </option>
-              </select>
-            </div>
-          </template>
-          
-          <div class="control-group search-group">
-            <label for="course-search">搜尋課程或教師</label>
-            <input type="text" id="course-search" v-model="searchQuery" placeholder="例如：微積分 或 王老師">
-          </div>
-        </div>
+    <!-- Main Content -->
+    <div class="bg-white p-6 rounded-xl shadow-md mb-8 border border-gray-200">
+      <!-- 彈出式提示訊息 -->
+      <div v-if="conflictMessage" class="conflict-notification">
+        <p>{{ conflictMessage }}</p>
+        <button @click="conflictMessage = ''">關閉</button>
       </div>
 
-      <!-- 右側：課程列表 -->
-      <div class="course-list-container">
-        <div v-if="isLoading" class="loading-state">
-          <p>正在載入課程資料...</p>
-        </div>
-        <div v-else-if="filteredCourses.length > 0">
-          <p class="course-count">共找到 {{ filteredCourses.length }} 筆課程</p>
-          <ul class="course-list">
-            <li v-for="(course, index) in filteredCourses" :key="`${course['科目']}-${index}`" class="course-item">
-              <div class="course-info">
-                <div class="course-header">
-                  <span class="course-name">{{ course['科目'] }}</span>
-                  <span class="course-credits">{{ course['學分'] }} 學分</span>
-                </div>
-                <div class="course-details">
-                  <span><strong>教師:</strong> {{ course['任課教師'] }}</span>
-                  <span><strong>時間:</strong> {{ course['上課日期/節次'] }}</span>
-                  <span><strong>教室:</strong> {{ course['教室 【地點】'] }}</span>
-                  <span><strong>選別:</strong> {{ course['選別'] }}</span>
-                  <span v-if="course['系所名稱']"><strong>系所:</strong> {{ course['系所名稱'] }} - {{ course['年級'] }} 年級</span>
-                  <span v-if="course['查詢校區']"><strong>校區:</strong> {{ course['查詢校區'] }}</span>
-                </div>
-              </div>
+      <!-- 上半部：查詢區 + 課程列表 -->
+      <div class="top-section">
+        <!-- 左側：課程查詢面板 -->
+        <div class="controls-panel">
+          <h2>課程查詢</h2>
+          
+          <div class="control-group">
+            <label>課程類型</label>
+            <div class="button-group">
               <button 
-                @click="addToSchedule(course)" 
-                class="add-button"
-                :disabled="isInSchedule(course)"
-                :class="{ added: isInSchedule(course) }">
-                {{ isInSchedule(course) ? '已加入' : '加入課表' }}
+                v-for="type in courseTypes" 
+                :key="type.name"
+                :class="{ active: selectedType === type.name }"
+                @click="selectCourseType(type)">
+                {{ type.displayName }}
               </button>
-            </li>
-          </ul>
+            </div>
+          </div>
+
+          <div class="filters">
+            <template v-if="selectedType === '必修課程' || selectedType === '選修課程'">
+              <div class="control-group">
+                <label for="department-select">系所</label>
+                <select id="department-select" v-model="selectedDepartment">
+                  <option value="all">所有系所</option>
+                  <option v-for="dept in availableDepartments" :key="dept" :value="dept">
+                    {{ dept }}
+                  </option>
+                </select>
+              </div>
+              <div class="control-group">
+                <label for="grade-select">年級</label>
+                <select id="grade-select" v-model="selectedGrade">
+                  <option value="all">所有年級</option>
+                  <option v-for="grade in availableGrades" :key="grade" :value="grade">
+                    {{ grade }} 年級
+                  </option>
+                </select>
+              </div>
+            </template>
+
+            <template v-else-if="selectedType === '通識課程' || selectedType === '教育學程課程'">
+               <div class="control-group">
+                <label for="location-select">校區</label>
+                <select id="location-select" v-model="selectedLocation">
+                  <option value="all">所有校區</option>
+                  <option v-for="loc in availableLocations" :key="loc" :value="loc">
+                    {{ loc }}
+                  </option>
+                </select>
+              </div>
+            </template>
+            
+            <div class="control-group search-group">
+              <label for="course-search">搜尋課程或教師</label>
+              <input type="text" id="course-search" v-model="searchQuery" placeholder="例如：微積分 或 王老師">
+            </div>
+          </div>
         </div>
-        <div v-else class="empty-state">
-          <p>找不到符合條件的課程。</p>
+
+        <!-- 右側：課程列表 -->
+        <div class="course-list-container">
+          <div v-if="isLoading" class="loading-state">
+            <p>正在載入課程資料...</p>
+          </div>
+          <div v-else-if="filteredCourses.length > 0">
+            <p class="course-count">共找到 {{ filteredCourses.length }} 筆課程</p>
+            <ul class="course-list">
+              <li v-for="(course, index) in paginatedCourses" :key="`${course['科目']}-${index}`" class="course-item">
+                <div class="course-info">
+                  <div class="course-header">
+                    <span class="course-name">{{ course['科目'] }}</span>
+                    <span class="course-credits">{{ course['學分'] }} 學分</span>
+                  </div>
+                  <div class="course-details">
+                    <span><strong>教師:</strong> {{ course['任課教師'] }}</span>
+                    <span><strong>時間:</strong> {{ course['上課日期/節次'] }}</span>
+                    <span><strong>教室:</strong> {{ course['教室 【地點】'] }}</span>
+                    <span><strong>選別:</strong> {{ course['選別'] }}</span>
+                    <span v-if="course['系所名稱']"><strong>系所:</strong> {{ course['系所名稱'] }} - {{ course['年級'] }} 年級</span>
+                    <span v-if="course['查詢校區']"><strong>校區:</strong> {{ course['查詢校區'] }}</span>
+                  </div>
+                </div>
+                <button 
+                  @click="addToSchedule(course)" 
+                  class="add-button"
+                  :disabled="isInSchedule(course)"
+                  :class="{ added: isInSchedule(course) }">
+                  {{ isInSchedule(course) ? '已加入' : '加入課表' }}
+                </button>
+              </li>
+            </ul>
+            <div class="pagination-controls mt-4 flex justify-center items-center gap-4">
+              <button @click="prevPage" :disabled="currentPage === 1" class="px-4 py-2 rounded-md bg-blue-500 text-white disabled:opacity-50">上一頁</button>
+              <span class="text-gray-700">第 {{ currentPage }} 頁 / 共 {{ totalPages }} 頁</span>
+              <button @click="nextPage" :disabled="currentPage === totalPages" class="px-4 py-2 rounded-md bg-blue-500 text-white disabled:opacity-50">下一頁</button>
+            </div>
+          </div>
+          <div v-else class="empty-state">
+            <p>找不到符合條件的課程。</p>
+          </div>
         </div>
       </div>
     </div>
 
     <!-- 下半部：個人課表 -->
-    <div class="scheduler-panel">
+    <div class="bg-white p-6 rounded-xl shadow-md border border-gray-200">
       <CourseScheduler 
         :my-schedule="mySchedule"
         @remove-course="removeFromSchedule"
@@ -165,13 +179,16 @@ const courseTypes = [
 // --- 響應式狀態 (State) ---
 const isLoading = ref(true);
 const selectedType = ref(courseTypes[0].name);
-const allCourses = ref([]);
+const allCourses = ref([]);;
 const selectedDepartment = ref('all');
 const selectedGrade = ref('all');
 const selectedLocation = ref('all');
 const searchQuery = ref('');
 const mySchedule = ref([]); 
 const conflictMessage = ref(''); 
+
+const currentPage = ref(1);
+const itemsPerPage = ref(5); 
 
 // --- 核心邏輯 (Logic) ---
 
@@ -201,6 +218,11 @@ const selectCourseType = (type) => {
 };
 
 const addToSchedule = (courseToAdd) => {
+  if (isInSchedule(courseToAdd)) {
+    conflictMessage.value = `"${courseToAdd['科目']}" 已經在您的課表中了。`;
+    setTimeout(() => { conflictMessage.value = '' }, 3000);
+    return;
+  }
   const newCourseTimes = parseTimeSlots(courseToAdd['上課日期/節次']);
   
   if (newCourseTimes.length === 0) {
@@ -264,12 +286,16 @@ const availableLocations = computed(() => {
 const filteredCourses = computed(() => {
   let courses = allCourses.value;
 
+  // Reset currentPage to 1 whenever filters change
+  currentPage.value = 1; // This line is important for resetting pagination
+
   if (selectedType.value === '必修課程' || selectedType.value === '選修課程') {
     if (selectedDepartment.value !== 'all') {
       courses = courses.filter(c => c['系所名稱'] === selectedDepartment.value);
     }
     if (selectedGrade.value !== 'all') {
-      courses = courses.filter(c => String(c['年級']) === String(selectedGrade.value));
+      // Ensure grade comparison is robust
+      courses = courses.filter(c => String(c['年級']).trim() === String(selectedGrade.value).trim());
     }
   } 
   else if (selectedType.value === '通識課程' || selectedType.value === '教育學程課程') {
@@ -289,6 +315,28 @@ const filteredCourses = computed(() => {
   
   return courses;
 });
+
+const totalPages = computed(() => {
+  return Math.ceil(filteredCourses.value.length / itemsPerPage.value);
+});
+
+const paginatedCourses = computed(() => {
+  const start = (currentPage.value - 1) * itemsPerPage.value;
+  const end = start + itemsPerPage.value;
+  return filteredCourses.value.slice(start, end);
+});
+
+const nextPage = () => {
+  if (currentPage.value < totalPages.value) {
+    currentPage.value++;
+  }
+};
+
+const prevPage = () => {
+  if (currentPage.value > 1) {
+    currentPage.value--;
+  }
+};
 
 onMounted(() => {
   loadCourses(courseTypes[0]);
@@ -394,4 +442,8 @@ onMounted(() => {
 
 /* 狀態提示 */
 .loading-state, .empty-state { text-align: center; padding: 3rem; color: #888; }
+
+.pagination-controls button:disabled {
+  cursor: not-allowed;
+}
 </style>
