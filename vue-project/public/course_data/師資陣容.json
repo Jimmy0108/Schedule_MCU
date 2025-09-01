@@ -1,0 +1,174 @@
+
+[
+  {
+    "name": "王金龍 (Wang, Jin-Long)",
+    "title": "講座教授兼學術副校長",
+    "role": "Professor and Vice President for Academic Affairs",
+    "specialization": "計算機網路、分散式系統、高速網路、網際網路技術",
+    "office": "Q609",
+    "extension": "3352, 2701",
+    "email": "jlwang@mail.mcu.edu.tw"
+  },
+  {
+    "name": "劉國偉 (Liu, Kuo-Wei)",
+    "title": "講座教授",
+    "role": "Chair Professor, University Affairs Consultant, Alumni Service and Resource Development Consultant",
+    "specialization": "半導體光電元件、微波元件、電子電路設計、科學教育",
+    "office": "AA710",
+    "extension": "2606",
+    "email": "kwliu@mail.mcu.edu.tw"
+  },
+  {
+    "name": "江叔盈 (Chiang, Shu-Ying)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "無線通訊、嵌入式系統、控制工程、智慧型機器人",
+    "office": "S613",
+    "extension": "3413",
+    "email": "sychiang@mail.mcu.edu.tw"
+  },
+  {
+    "name": "林鈺城 (Lin, Yu-Cheng)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "矽光子元件設計、光學模擬、生醫感測、光電量測技術、量測不確定度",
+    "office": "S645",
+    "extension": "3445",
+    "email": "yclin@mail.mcu.edu.tw"
+  },
+  {
+    "name": "陳慶逸 (Chen, Ching-Yi)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "智慧型計算、樣型辨識與影像處理、嵌入式系統",
+    "office": "S508-B",
+    "extension": "3740",
+    "email": "chingyi@mail.mcu.edu.tw"
+  },
+  {
+    "name": "洪東興 (Hung, Tung-Hsing)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "微波元件研究",
+    "office": "AA705",
+    "extension": "3541",
+    "email": "dshung@mail.mcu.edu.tw"
+  },
+  {
+    "name": "李棟良 (Lee, Dong-Liang)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "類神經網路、影像處理、圖形識別",
+    "office": "S644",
+    "extension": "3444",
+    "email": "dllee@mail.mcu.edu.tw"
+  },
+  {
+    "name": "黃炳森 (Huang, Ping-Sen)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "生物特徵識別、資訊隱藏、數位影像處理、圖形識別",
+    "office": "S635",
+    "extension": "3435",
+    "email": "pshuang@mail.mcu.edu.tw"
+  },
+  {
+    "name": "蒙以正 (Meng, Yi-Jeng)",
+    "title": "教授",
+    "role": "Professor",
+    "specialization": "計算機組織、微處理機、人工智慧、機器學習",
+    "office": "S615",
+    "extension": "3415",
+    "email": "yjm@mail.mcu.edu.tw"
+  },
+  {
+    "name": "周智倫 (Chou, Chih-Lun)",
+    "title": "副教授兼系主任",
+    "role": "Associate Professor and Department Chair",
+    "specialization": "網際網路通訊協定、網際網路應用、網路安全、網路管理",
+    "office": "S614",
+    "extension": "3414",
+    "email": "clchou@mail.mcu.edu.tw"
+  },
+  {
+    "name": "方俊才 (Fang, Chun-Tsai)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "視訊壓縮、音訊處理、深度學習應用",
+    "office": "S512C",
+    "extension": "3747",
+    "email": "fang@mail.mcu.edu.tw"
+  },
+  {
+    "name": "蔡建戊 (Tsai, Chien-Wu)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "多媒體通訊、多媒體資料壓縮、數位信號處理、嵌入式系統",
+    "office": "AA607",
+    "extension": "3531",
+    "email": "cwtsai@mail.mcu.edu.tw"
+  },
+  {
+    "name": "賴守全 (Lai, Shou-Chuan)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "網際網路通訊協定、網際網路應用、網路安全、網路管理",
+    "office": "S507-C",
+    "extension": "3736",
+    "email": "sclai@mail.mcu.edu.tw"
+  },
+  {
+    "name": "林奎至 (Lin, Kui-Chih)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "CMOS元件物理及設計、類比積體電路設計、超大型積體電路、數位及類比訊號處理",
+    "office": "S507B",
+    "extension": "3735",
+    "email": "wblin@mail.mcu.edu.tw"
+  },
+  {
+    "name": "林憶霞 (Lin, Yi-Hsia)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "類比積體電路設計、半導體元件模型與模擬、半導體物理與元件",
+    "office": "AA609",
+    "extension": "3533",
+    "email": "yslin@mail.mcu.edu.tw"
+  },
+  {
+    "name": "蔡樸生 (Tsai, Pu-Sheng)",
+    "title": "副教授",
+    "role": "Associate Professor",
+    "specialization": "嵌入式微控器、智慧物聯網、人工智慧",
+    "office": "S621",
+    "extension": "3421",
+    "email": "pusheng@mail.mcu.edu.tw"
+  },
+  {
+    "name": "陳建伯 (Chen, Chien-Po)",
+    "title": "助理教授",
+    "role": "Assistant Professor, Deputy Director of Information and Network Division, Head of Taoyuan Administration Information Network Group",
+    "specialization": "網路管理、網路規劃",
+    "office": "S511-A",
+    "extension": "3816",
+    "email": "jbchen@mail.mcu.edu.tw"
+  },
+  {
+    "name": "高誌陽 (Kao, Chih-Yang)",
+    "title": "助理教授",
+    "role": "Assistant Professor",
+    "specialization": "新世代行動通訊系統設計、軟體無線電系統實現、智慧型無線電資源管理、數位廣播系統研究",
+    "office": "AA709",
+    "extension": "3545",
+    "email": "cykaoo@mail.mcu.edu.tw"
+  },
+  {
+    "name": "沈俊旭 (Shen, Chun-Hsu)",
+    "title": "助理教授",
+    "role": "Assistant Professor",
+    "specialization": "奈米電子材料與前瞻元件應用、半導體及光電元件製程與檢測技術、微波電路元件與5G應用、綠色(能源)材料製程與開發/檢測技術",
+    "office": "S507-D",
+    "extension": "3737",
+    "email": "chshen0656@mail.mcu.edu.tw"
+  }
+]

@@ -1,0 +1,46 @@
+📌 Vue 專案載入 JSON 檔案 404 問題筆記
+1. 錯誤訊息
+程式碼
+GET http://localhost:5174/course_data/必修課程.json 404 (Not Found)
+並且伺服器提示：
+
+程式碼
+The server is configured with a public base URL of /Schedule_MCU/
+2. 問題原因
+Vite 專案設定了 base 為 /Schedule_MCU/ → 所有靜態資源（public 資料夾內的檔案）必須透過 /Schedule_MCU/ 前綴存取。
+
+目前程式碼使用：
+
+js
+fetch('/course_data/必修課程.json')
+→ 會去請求 /course_data/...，而不是 /Schedule_MCU/course_data/...，因此找不到檔案。
+
+3. 解決方法
+✅ 方法一：使用 import.meta.env.BASE_URL（推薦）
+js
+fetch(`${import.meta.env.BASE_URL}course_data/必修課程.json`)
+import.meta.env.BASE_URL 會自動讀取 Vite base 設定，開發與部署都適用。
+
+未來如果 base 改變，不需要改程式碼。
+
+✅ 方法二：手動加上 /Schedule_MCU/ 前綴（不建議）
+js
+fetch('/Schedule_MCU/course_data/必修課程.json')
+簡單直接，但 base 改變時需要手動修改所有路徑。
+
+✅ 方法三：改成英文檔名（避免 URL 編碼問題）
+將 必修課程.json 改為 required_courses.json
+
+程式碼：
+
+js
+fetch(`${import.meta.env.BASE_URL}course_data/required_courses.json`)
+4. 額外建議
+Vue Router 也應該使用相同的 base：
+
+js
+const router = createRouter({
+  history: createWebHistory(import.meta.env.BASE_URL),
+  routes: [...]
+})
+測試方式：直接在瀏覽器輸入 http://localhost:5174/Schedule_MCU/course_data/必修課程.json 確認檔案能否正確載入。
